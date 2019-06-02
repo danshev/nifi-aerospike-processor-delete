@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="42dff51f-2601-4fea-a19d-cdb3698b6eb2" name="Default Changelist" comment="" />
+    <list default="true" id="42dff51f-2601-4fea-a19d-cdb3698b6eb2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nifi-aerospike-delete-nar/target/classes/META-INF/bundled-dependencies/nifi-aerospike-connection-api-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/nifi-aerospike-delete-nar/target/classes/META-INF/bundled-dependencies/nifi-aerospike-connection-api-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nifi-aerospike-delete-nar/target/classes/META-INF/bundled-dependencies/nifi-aerospike-delete-processors-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/nifi-aerospike-delete-nar/target/classes/META-INF/bundled-dependencies/nifi-aerospike-delete-processors-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nifi-aerospike-delete-nar/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/nifi-aerospike-delete-nar/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nifi-aerospike-delete-nar/target/nifi-aerospike-delete-nar-1.0-SNAPSHOT.nar" beforeDir="false" afterPath="$PROJECT_DIR$/nifi-aerospike-delete-nar/target/nifi-aerospike-delete-nar-1.0-SNAPSHOT.nar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nifi-aerospike-delete-processors/src/main/java/com/danshev/processors/aerospike_delete/AerospikeDelete.java" beforeDir="false" afterPath="$PROJECT_DIR$/nifi-aerospike-delete-processors/src/main/java/com/danshev/processors/aerospike_delete/AerospikeDelete.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nifi-aerospike-delete-processors/target/classes/com/danshev/processors/aerospike_delete/AerospikeDelete.class" beforeDir="false" afterPath="$PROJECT_DIR$/nifi-aerospike-delete-processors/target/classes/com/danshev/processors/aerospike_delete/AerospikeDelete.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nifi-aerospike-delete-processors/target/nifi-aerospike-delete-processors-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/nifi-aerospike-delete-processors/target/nifi-aerospike-delete-processors-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nifi-aerospike-delete-processors/target/surefire-reports/TEST-com.danshev.processors.aerospike_delete.DeleteTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/nifi-aerospike-delete-processors/target/surefire-reports/TEST-com.danshev.processors.aerospike_delete.DeleteTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nifi-aerospike-delete-processors/target/surefire-reports/com.danshev.processors.aerospike_delete.DeleteTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/nifi-aerospike-delete-processors/target/surefire-reports/com.danshev.processors.aerospike_delete.DeleteTest.txt" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/nifi-aerospike-delete-nar/target/" />
     <ignored path="$PROJECT_DIR$/nifi-aerospike-delete-processors/target/" />
@@ -21,15 +33,18 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/nifi-aerospike-delete-nar/pom.xml">
+        <entry file="file://$PROJECT_DIR$/nifi-aerospike-delete-processors/src/main/java/com/danshev/processors/aerospike_delete/AerospikeDelete.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="398">
-              <caret line="38" column="8" selection-start-line="38" selection-start-column="8" selection-end-line="43" selection-end-column="21" />
+            <state relative-caret-position="457">
+              <caret line="152" column="38" selection-start-line="152" selection-start-column="38" selection-end-line="152" selection-end-column="38" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -41,11 +56,11 @@
         <option value="$PROJECT_DIR$/nifi-aerospike-delete-processors/src/main/java/com/danshev/processors/aerospike_delete/Delete.java" />
         <option value="$PROJECT_DIR$/nifi-aerospike-delete-processors/src/test/java/com/danshev/processors/aerospike_delete/DeleteTest.java" />
         <option value="$PROJECT_DIR$/nifi-aerospike-delete-processors/src/main/resources/META-INF/services/org.apache.nifi.processor.Processor" />
-        <option value="$PROJECT_DIR$/nifi-aerospike-delete-processors/src/main/java/com/danshev/processors/aerospike_delete/AerospikeDelete.java" />
         <option value="$PROJECT_DIR$/nifi-aerospike-delete-processors/src/main/resources/META-INF/services/org.apache.nifi.processor.ControllerService" />
         <option value="$PROJECT_DIR$/nifi-aerospike-delete-processors/src/main/resources/META-INF/services/org.apache.nifi.controller.ControllerService" />
         <option value="$PROJECT_DIR$/nifi-aerospike-delete-processors/pom.xml" />
         <option value="$PROJECT_DIR$/nifi-aerospike-delete-nar/pom.xml" />
+        <option value="$PROJECT_DIR$/nifi-aerospike-delete-processors/src/main/java/com/danshev/processors/aerospike_delete/AerospikeDelete.java" />
       </list>
     </option>
   </component>
@@ -59,8 +74,9 @@
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="716" />
+    <option name="height" value="715" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -76,7 +92,37 @@
             <path>
               <item name="aerospike-delete" type="b2602c69:ProjectViewProjectNode" />
               <item name="aerospike-delete" type="462c0819:PsiDirectoryNode" />
-              <item name="nifi-aerospike-delete-nar" type="462c0819:PsiDirectoryNode" />
+              <item name="nifi-aerospike-delete-processors" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aerospike-delete" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aerospike-delete" type="462c0819:PsiDirectoryNode" />
+              <item name="nifi-aerospike-delete-processors" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aerospike-delete" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aerospike-delete" type="462c0819:PsiDirectoryNode" />
+              <item name="nifi-aerospike-delete-processors" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aerospike-delete" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aerospike-delete" type="462c0819:PsiDirectoryNode" />
+              <item name="nifi-aerospike-delete-processors" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aerospike-delete" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aerospike-delete" type="462c0819:PsiDirectoryNode" />
+              <item name="nifi-aerospike-delete-processors" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="aerospike_delete" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -87,6 +133,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -116,7 +163,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="716" extended-state="6" />
+    <frame x="0" y="23" width="1280" height="715" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3263328" />
@@ -186,13 +233,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nifi-aerospike-delete-processors/src/main/java/com/danshev/processors/aerospike_delete/AerospikeDelete.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="52" column="52" selection-start-line="52" selection-start-column="52" selection-end-line="52" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
@@ -211,6 +251,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="398">
           <caret line="38" column="8" selection-start-line="38" selection-start-column="8" selection-end-line="43" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nifi-aerospike-delete-processors/src/main/java/com/danshev/processors/aerospike_delete/AerospikeDelete.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="457">
+          <caret line="152" column="38" selection-start-line="152" selection-start-column="38" selection-end-line="152" selection-end-column="38" />
         </state>
       </provider>
     </entry>
