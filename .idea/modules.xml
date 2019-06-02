@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/aerospike-delete.iml" filepath="$PROJECT_DIR$/aerospike-delete.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nifi-aerospike-delete-nar/nifi-aerospike-delete-nar.iml" filepath="$PROJECT_DIR$/nifi-aerospike-delete-nar/nifi-aerospike-delete-nar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nifi-aerospike-delete-processors/nifi-aerospike-delete-processors.iml" filepath="$PROJECT_DIR$/nifi-aerospike-delete-processors/nifi-aerospike-delete-processors.iml" />
+    </modules>
+  </component>
+</project>
